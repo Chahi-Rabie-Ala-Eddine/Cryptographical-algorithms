@@ -13,7 +13,7 @@ You will find in this repository the **cryptographical algorithms** that i imple
 | [RSA Montgomery](https://github.com/Chahi-Rabie-Ala-Eddine/Timing-Attack-On-Smart-Cards/tree/master/RSA%20Montgomery) | C++ | 1 day | :white_check_mark: |
 | [Triple Data Encryption Standard](https://github.com/Chahi-Rabie-Ala-Eddine/3DES) | C++ | 5 hours | :white_check_mark: |
 | [Engima Machine](https://github.com/Chahi-Rabie-Ala-Eddine/Enigma) | C++ | 8 hours | :white_check_mark: |
-| [Primality test of Solovay-Strassen](https://github.com/Chahi-Rabie-Ala-Eddine/Primality-Test-Solovay-Strassen) | C++ | 4 hours | :white_check_mark: |
+| [Primality test of Solovay-Strassen](https://github.com/Chahi-Rabie-Ala-Eddine/Primality-Test-Solovay-Strassen) | C | 4 hours | :white_check_mark: |
 
 ## License & copyright
 
