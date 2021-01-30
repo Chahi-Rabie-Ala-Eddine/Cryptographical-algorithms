@@ -1,7 +1,5 @@
 # Cryptographical Algorithms
 
-## About 
-
 ### Description 
 
 You will find in this repository the **cryptographical algorithms** that i implemented.
